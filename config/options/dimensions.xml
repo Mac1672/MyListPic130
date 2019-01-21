@@ -1,0 +1,18 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="851" y="594" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="583" y="134" />
+    <location key="SettingsEditor.0.0.1600.900" x="278" y="76" />
+    <location key="Github.ShareDialog.0.0.1600.900" x="592" y="307" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="500" y="256" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1600.900" x="606" y="145" />
+    <location key="deploy.picker.dialog.0.0.1600.900" x="481" y="193" />
+    <location key="Github.UntrackedFilesDialog.0.0.1600.900" x="593" y="145" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1600.900" x="380" y="179" />
+    <location key="chooseDestDirectoryDialog.0.0.1600.900" x="612" y="202" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900" width="0" height="0" />
+  </component>
+</application>
